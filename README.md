@@ -1,7 +1,3 @@
-Absolutely, here's a README.md description for your code:
-
----
-
 # Naive Bayes Classifier for Iris Dataset
 
 This Python script utilizes the Scikit-learn library to build a Naive Bayes classifier for the Iris dataset. It employs the Gaussian Naive Bayes algorithm to classify iris flowers based on their sepal length and petal length features.
